@@ -1,6 +1,6 @@
 ##NewBingGoGo-web
 
-一个基于微软OpenAI*ChatGPT GPT4的New Bing接口的Web服务。
+一个基于微软OpenAI!ChatGPT#GPT4的New Bing接口的Web服务。
 提供了好看的对话页面。
 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。
 开源免费。
@@ -86,4 +86,4 @@ NewBingGoGo-web既可以是一个网页服务，也可以是NewBingGoGo的魔法
 | 通过机器人验证| ✔ | ✔  | 当请求频繁时，微软要求通过机器人验证，就是输入验证码|
 
 
- 
+  
